@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1234,
+    "fullName": "Gina Snelly",
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/55.jpg",
+    "trust": 75
+  },
+  {
+    "userId": 1234,
+    "fullName": "Gina Snelly",
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/55.jpg",
+    "trust": 75
+  }
+]
